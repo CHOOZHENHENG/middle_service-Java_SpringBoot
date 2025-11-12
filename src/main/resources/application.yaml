@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: MiddleDev
+server:
+  port: 8081
+
