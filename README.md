@@ -4,9 +4,9 @@ A simulated middle service using SpringInterceptor, WebClient, and bearer token 
 
 
 Language and Tools used:
-Java
-JDK 17
-sql server developer edition
-SQL Server Management Studio(SSMS)
-Intellij Community Edition
-Postman
+1. Java
+2. JDK 17
+3. sql server developer edition
+4. SQL Server Management Studio(SSMS)
+5. Intellij Community Edition
+6. Postman
